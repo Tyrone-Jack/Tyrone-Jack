@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tyrone-Jack
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Html and css projects
+- 👀 I’m interested in Mobile and Web development
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Kotlin, Html and css projects
 - 📫 How to reach me is linked in my profile 
 - ⚡ Fun fact: One step is all it takes to change ANYTHING 😌
 
